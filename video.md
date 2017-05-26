@@ -19,7 +19,7 @@ grant all privileges on tale_test.* to tale_test@'%' identified by "gZ3F}u%br]9u
 
 flush privileges;
 ```
-
+ 
 ```nginx
 server {
     listen 80;
